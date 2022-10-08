@@ -6,10 +6,15 @@ Currently pursuing my Master's degree in Business Analytics in CMU, I am trying 
 
 ## Brief me
 
-2016-2020: Shanghai University of Finance and Economics --> Undergraduate
-2020-2022: Kuaishou --> Data Scientist
-2022-2023: Carnegie Mellon University --> Master student
+2016-2020: Shanghai University of Finance and Economics --> Undergraduate<br>
+2020-2022: Kuaishou --> Data Scientist<br>
+2022-2023: Carnegie Mellon University --> Master student<br>
 
-## About this website
+## Brief my blog
 
-I will
+I really enjoy sharing and hearing from people.<br>
+I believe people have different occupations when they play different roles. Therefore, I would set up different modules here and tell totally different things in each part.<br>
+
+## Contact
+
+Linkedin: https://www.linkedin.com/in/hangyuan01/
