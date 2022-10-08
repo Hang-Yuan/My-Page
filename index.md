@@ -6,9 +6,9 @@ Currently pursuing my Master's degree in Business Analytics in CMU, I am trying 
 
 ## Brief me
 
-2016-2020: Shanghai University of Finance and Economics --> Undergraduate<br>
-2020-2022: Kuaishou --> Data Scientist<br>
 2022-2023: Carnegie Mellon University --> Master student<br>
+2020-2022: Kuaishou --> Data Scientist<br>
+2016-2020: Shanghai University of Finance and Economics --> Undergraduate
 
 ## Brief my blog
 
